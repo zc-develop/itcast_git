@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaEE-web.iml" filepath="$PROJECT_DIR$/.idea/JavaEE-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/git-day55-HelloProjet/git-day55-HelloProjet.iml" filepath="$PROJECT_DIR$/git-day55-HelloProjet/git-day55-HelloProjet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itcast_git/git-day55-HelloProjet/git-day55-HelloProjet (1).iml" filepath="$PROJECT_DIR$/itcast_git/git-day55-HelloProjet/git-day55-HelloProjet (1).iml" />
+    </modules>
+  </component>
+</project>
